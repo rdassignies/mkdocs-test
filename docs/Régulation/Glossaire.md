@@ -1,5 +1,5 @@
  !! Les modifications de Raphaël !!
-
+((( les modifications de beatrice)))
 **Voici**le vocabulaire [^1] à connaître +++ pour décrypter le domaine. Il est classé par thématiques. Ce classement, totalement arbitraire, 
 Entité nommé (NER)
 
