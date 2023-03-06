@@ -1,11 +1,14 @@
-Voici le vocabulaire à connaître pour décrypter le domaine. Il est classé par thématiques. Ce classement, totalement arbitraire, 
+**Voici** le vocabulaire [^1] à connaître pour décrypter le domaine. Il est classé par thématiques. Ce classement, totalement arbitraire, 
 Entité nommé (NER)
+
+---------- 
 
 Embedding
 
 ## Machine learning 
 ### Paramètres : 
-Les paramètres d'un modèle designent les variables qui sont apprises par le modèle lors de la phase d'apprentissage. 
+> Les paramètres d'un **modèle** designent les variables qui sont apprises par le modèle lors de la
+> >> phase d'apprentissage. 
 ### Hyperparamètres : 
 On destingue les hyperparamètres du modèle (nombre de couches, taille, ... ) et ceux liés à l'apprentissage (learning rate, optimizer, ... ). 
 
@@ -156,5 +159,8 @@ Données structurées : données ayant été formatées en vue d'un traitement a
 Données non structurée : données non formatées en vue d'une exploitation directe par un algorithme. Il peut s'agir de documents comme des pdf, emails, images. 
 
 Legal NLP
+
+
+[^1] : footnote
 
 

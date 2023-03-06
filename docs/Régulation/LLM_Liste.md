@@ -1,4 +1,4 @@
-Cette page référence uniquement les grands modèles de langage pré entraînés actuels. Pour une liste de plusieurs dizaines de millier de modèles de language pré entraînés, il faut consulter [le site d'HuggingFace](https://huggingface.co/models)
+**Cette page référence** uniquement les grands modèles de langage pré entraînés actuels. Pour une liste de plusieurs dizaines de millier de modèles de language pré entraînés, il faut consulter [le site d'HuggingFace](https://huggingface.co/models)
 
 ## LLaMa (Meta AI)
 https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf
