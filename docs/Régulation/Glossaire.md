@@ -1,4 +1,6 @@
-**Voici** le vocabulaire [^1] à connaître pour décrypter le domaine. Il est classé par thématiques. Ce classement, totalement arbitraire, 
+ !! Les modifications de Raphaël !!
+
+**Voici**le vocabulaire [^1] à connaître pour décrypter le domaine. Il est classé par thématiques. Ce classement, totalement arbitraire, 
 Entité nommé (NER)
 
 ---------- 
